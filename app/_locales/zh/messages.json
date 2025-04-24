@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Angular上下文",
+    "description": "应用程序的名称"
+  },
+  "appDescription": {
+    "message": "Angular上下文检查器",
+    "description": "应用程序的描述"
+  }
+}
